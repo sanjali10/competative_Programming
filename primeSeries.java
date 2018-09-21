@@ -13,7 +13,7 @@ public class Main
 	     	for(i=2;i<=number;i++)
 	     	{
 	     	    flag=0;
-		       for(j=2;j<i;j++)
+		       for(j=2;j<i/2;j++)
 		      {
 		          if(i%j==0)
 		         {
